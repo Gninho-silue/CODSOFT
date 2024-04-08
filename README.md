@@ -30,9 +30,13 @@ The CODSOFT Python Programming Internship offers participants the opportunity to
 3.Task Descriptions
 
 a.To-Do List Application: Manage and organize tasks efficiently with a command-line or GUI-based application.
+
 b.Calculator: Perform basic arithmetic operations with a simple calculator application.
+
 c.Password Generator: Generate strong and random passwords with specified length and complexity.
+
 d.Rock-Paper-Scissors Game: Play the classic game against the computer with user-friendly interface and scoring.
+
 e.Contact Book: Store, view, search, update, and delete contact information with ease.
 
 4.Getting Started
