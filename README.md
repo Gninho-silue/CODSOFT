@@ -18,9 +18,13 @@ The CODSOFT Python Programming Internship offers participants the opportunity to
 2.Tasks Overview
 
 -To-Do List Application
+
 -Calculator
+
 -Password Generator
+
 -Rock-Paper-Scissors Game
+
 -Contact Book
 
 3.Task Descriptions
