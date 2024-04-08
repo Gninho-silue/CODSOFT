@@ -16,6 +16,7 @@ Table of Contents
 The CODSOFT Python Programming Internship offers participants the opportunity to enhance their Python skills by completing a series of tasks. Successful completion of these tasks demonstrates proficiency in various Python programming concepts and applications.
 
 2.Tasks Overview
+
 -To-Do List Application
 -Calculator
 -Password Generator
