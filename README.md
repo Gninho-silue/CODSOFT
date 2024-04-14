@@ -2,7 +2,8 @@ CODSOFT Internship Tasks
 
 Welcome to the CODSOFT Python Programming Internship! This repository contains the solutions for the internship tasks completed by SILUE GNINNINMAGUIGNON.
 
-Table of Contents
+Table of Contents:
+
 1.About the Internship
 
 2.Tasks Overview
