@@ -4,11 +4,17 @@ Welcome to the CODSOFT Python Programming Internship! This repository contains t
 
 Table of Contents
 1.About the Internship
+
 2.Tasks Overview
+
 3.Task Descriptions
+
 4.Getting Started
+
 5.Usage
+
 6.Demo Videos
+
 7.Contact
 
 1.About the Internship
